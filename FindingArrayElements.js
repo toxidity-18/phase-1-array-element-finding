@@ -8,3 +8,4 @@ cards.indexOf('ten of diamonds',3)// -1
 
 // using complex conditions Array.prototype.find()
 // pass it as a callback function 
+// .. marco polo
